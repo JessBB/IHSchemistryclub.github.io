@@ -28,7 +28,8 @@ h1{
      line-height: 15.4px;
      color: #05b2af ;
   }
-  p { font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace; 
+  p { 
+   font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace; 
   font-size: 14px; font-style: normal; 
   font-variant: normal;
   font-weight: 400;
