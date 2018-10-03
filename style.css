@@ -1,0 +1,57 @@
+img{
+  margin: auto;
+  display:block ;
+  width: 400px; 
+}
+
+h1{
+  text-align: center; 
+   color: #56f779;
+   font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+   font-size: 30px; font-style: normal;
+   font-variant: normal; font-weight: 700; line-height: 45px;
+  }
+  h3 { 
+     font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace; 
+     font-size: 14px; font-style: normal; 
+     font-variant: normal; 
+     font-weight: 700; 
+     line-height: 15.4px;
+     color: #61ad71;
+    }
+    
+  h2{
+     font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace; 
+     font-size: 22px; font-style: normal; 
+     font-variant: normal; 
+     font-weight: 700; 
+     line-height: 15.4px;
+     color: #05b2af ;
+  }
+  p { font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace; 
+  font-size: 14px; font-style: normal; 
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+  color: #2a2b2b;
+  }
+  
+  blockquote { 
+  font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace; 
+  font-size: 21px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 30px;
+  color: #2a2b2b;
+  }
+  
+  pre { 
+  font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+  font-size: 13px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 18.5714px;
+   color: #2a2b2b;
+  }
