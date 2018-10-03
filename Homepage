@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>  
-        <link rel="shortcut icon" href="JBicon.png">
+        <link rel="shortcut icon" href="icon-science.png">
     <title> Ithaca Highschool Chemistry Club! </title>
      <link rel = "stylesheet"
       type = "text/css"
        href = "style.css" /> 
    
-   </head>
+  </head>
+ <body>
+     <h1> Welcome To Ithaca Highschool chemistry club! </h1> 
+     
+ </body>  
+    
     
 </html>
         
